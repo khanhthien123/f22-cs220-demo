@@ -13,6 +13,7 @@ int main()
 {
     cout << "Hello" << endl;
     cout << "I added it locally" << endl;
+    cout << "My friend added this and pushed it" << endl;
     return 0;
 }
 ```
